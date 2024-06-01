@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 , I'm Ana
 
 <!--
 **anaritadauane/anaritadauane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Current Project: I'm developing an app called Hlela, which lets users review businesses in Mozambique, bridging a significant gap in the market.
+- 🌱 Learning Journey: Diving into ReactJS while exploring the exciting world of open source.
+- 📫 Contact Me: anarita.dauane@gmail.com
+- 😄 Pronouns: she/her
+
+
+
+
+
+
+
+
